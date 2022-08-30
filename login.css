@@ -1,0 +1,25 @@
+h1{
+    color: gold;
+}
+p{
+    color: #ff0;
+}
+form{
+    color: #848484;
+}
+
+
+nav#menu  li:hover {
+    background-color: #606060;
+  }
+  
+  nav#menu a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  nav#menu a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+ 
