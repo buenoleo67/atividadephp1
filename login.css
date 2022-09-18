@@ -10,11 +10,11 @@ form{
 
 
 nav#menu  li:hover {
-    background-color: #606060;
+    background-color: aliceblue;
   }
   
   nav#menu a {
-    color: black;
+    color: grey;
     text-decoration: none;
   }
   
