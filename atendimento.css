@@ -1,12 +1,17 @@
 h1{
     color: cornsilk;
     font: message-box;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h2{
     color: gainsboro;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 ul{
     color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 figcaption{
     color: darkgray;
