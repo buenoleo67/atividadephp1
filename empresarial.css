@@ -1,6 +1,13 @@
 /* seletor de elemento */
 h1{
     color: blanchedalmond;
+    font-size: x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h1::selection {
+    color: gold;
+    background-color: grey;
 }
 ul{
     color: aliceblue;
@@ -17,3 +24,18 @@ dl{
 ol{
     color: ivory;
 }
+h2{
+    color: blanchedalmond;
+}
+a{
+    color: gold;
+}
+
+nav#menu  li:hover {
+    background-color: aliceblue;
+  }
+  
+nav#menu a {
+    color: grey;
+    text-decoration: one;
+  }
